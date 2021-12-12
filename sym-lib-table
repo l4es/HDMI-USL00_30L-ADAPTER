@@ -47,4 +47,5 @@
   (lib (name 532610571)(type Legacy)(uri ${KIPRJMOD}/lib_sch/532610571.lib)(options "")(descr ""))
   (lib (name 53261-0471)(type Legacy)(uri ${KIPRJMOD}/lib_sch/53261-0471.lib)(options "")(descr ""))
   (lib (name 53261-0371)(type Legacy)(uri ${KIPRJMOD}/lib_sch/53261-0371.lib)(options "")(descr ""))
+  (lib (name HDMI-019A)(type Legacy)(uri ${KIPRJMOD}/lib_sch/HDMI-019A.lib)(options "")(descr ""))
 )
